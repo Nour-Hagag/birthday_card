@@ -15,7 +15,7 @@ class ImageCard extends StatelessWidget {
         body: SizedBox(
           width: double.infinity,
           height: double.infinity,
-          child: Image.asset(fit: BoxFit.cover, 'assets/images/image2.jpg'),
+          child: Image.asset(fit: BoxFit.cover, 'assets/images/imageee.png'),
         ),
       ),
     );
